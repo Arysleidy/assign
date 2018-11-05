@@ -1,5 +1,6 @@
-# DDSS 2018 - Supporting Materials
+# MSI DDSS - Supporting Materials
  
+
 The code and resources available in this repository are to be used in the scope of the *DDSS* course.
 
 
@@ -14,12 +15,13 @@ In particular, the projects available are totally automated to be easily deploye
  
 ## Contents
 
-* [java](java) - Options for java with maven or docker.
+* [java](java) - Options available for Java<sup>TM</sup> with [maven](java/docker/ddss-mvn) or [docker](java/docker).
 * [php](php) - Docker container with php configured. 
 * [python](python) -  Docker container with python configured.
 * [database](database) - the original SQLite database file provided.
 * [interfaces](interfaces) - the interfaces mentioned in the assignment description.
  
+
 
 
 ## Acknowledgement
@@ -29,7 +31,9 @@ The projects in this repository have the contribution of past students of the co
 **Note:** *if you have a project dully automated and that you want to share with your colleagues (present and future), please let me know and I will add it to the repository.*
 
 
+
 ## Authors
 
 * Nuno Antunes <nmsa@dei.uc.pt>
 * Marco Vieira <mvieira@dei.uc.pt>
+
